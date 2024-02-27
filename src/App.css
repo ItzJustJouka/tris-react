@@ -1,0 +1,15 @@
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(34, 38, 58);
+}
+.title {
+  color: white;
+}
+
+.wrapper {
+  background-color: rgb(34, 38, 58);
+}
+.hidden {
+  opacity: 0;
+}
